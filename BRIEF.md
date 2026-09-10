@@ -35,6 +35,8 @@ Must ship walkable: **face scan** → **resultat** → **rekommendationer** → 
 
 Founded by Bianca Ingrosso with beauty experts. SE D2C: makeup, skincare, hair, fragrance. Live heroes: Dewy Drops (18 shades), Soft Melt Peptide Lip Balm, Wake Me Up Cream, Soft Blend Brush F27, kits, Glow Blush, beauty cases. Soft cream/blush photography; Scandi-minimal white chrome with dusty-rose accents. Prices in KR.
 
+**Brand tokens (live site 10 Sep):** primary blush `#E0CCC7`, cream `#FFFCF7` / soft pink `#F4EFEB`, ink `#333333`, hover `#6F6464`, sale accent `#996466`. Type: **Artico** (bundled close sans for web — no runtime google_fonts). Wordmark: `caia_logo.png` / dark SVG from caiacosmetics.se themes. Tone: informal *du*, CTAs Köp nu / Lägg till / UPPTÄCK / Shoppa. Shade finder + Shoppa efter hudtyp already on site — pitch is face-scan that answers hudtyp/underton *for* her, then recommends across makeup + hudvård.
+
 ---
 
 ## 2. Audience
